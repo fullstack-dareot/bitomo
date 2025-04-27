@@ -1,0 +1,84 @@
+body {
+    background-color: #1C1C1C;
+    color: #50C878;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+  }
+
+main{
+  flex: 1;
+}
+
+footer {
+  margin-top: auto;
+}
+  
+header {
+  background-color: #50C878;
+  color: white;
+}
+  
+.card {
+  height: 100%;
+  background-color: #1C1C1C;
+  border: 2px solid #50C878;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.btn-primary {
+  background-color: #50C878;
+  border-color: #50C878;
+}
+  
+.btn-primary:hover {
+  background-color: #50C878;
+  border-color: #50C878;
+}
+
+.btn {
+  transition: all 0.3s ease;
+  font-weight: bold;
+}
+  
+.btn:hover {
+  opacity: 0.9;
+}
+
+
+#carrito-contenido {
+  padding: 0;
+  margin: 0;
+}
+
+.list-group-item {
+  padding: 10px;
+  font-size: 1.1em;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.eliminar-btn {
+  font-size: 0.9em;
+  padding: 5px 10px;
+}
+
+.total {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: right;
+  margin-top: 20px;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #1C1C1C;
+}

@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "nombre": "Celeste",
+      "precio": 12,
+      "descripcion": "Una aventura de plataformas desafiante y emocional.",
+      "categoria": "Plataformas",
+      "imagen": "https://placehold.co/300x150?text=Celeste"
+    },
+    {
+      "id": 2,
+      "nombre": "Hollow Knight",
+      "precio": 15,
+      "descripcion": "Un juego de acción y aventura en un mundo subterráneo.",
+      "categoria": "Metroidvania",
+      "imagen": "https://placehold.co/300x150?text=Hollow+Knight"
+    },
+    {
+      "id": 3,
+      "nombre": "Undertale",
+      "precio": 10,
+      "descripcion": "Un RPG único donde tus decisiones importan.",
+      "categoria": "RPG",
+      "imagen": "https://placehold.co/300x150?text=Undertale"
+    },
+    {
+      "id": 4,
+      "nombre": "Stardew Valley",
+      "precio": 15,
+      "descripcion": "Un juego de simulación de vida en una granja.",
+      "categoria": "Simulación",
+      "imagen": "https://placehold.co/300x150?text=Stardew+Valley"
+    },
+    {
+      "id": 5,
+      "nombre": "Dead Cells",
+      "precio": 20,
+      "descripcion": "Un roguelike de acción con mecánicas de metroidvania.",
+      "categoria": "Roguelike",
+      "imagen": "https://placehold.co/300x150?text=Dead+Cells"
+    },
+    {
+      "id": 6,
+      "nombre": "Shovel Knight",
+      "precio": 15,
+      "descripcion": "Un homenaje a los juegos de plataformas de los 8 bits.",
+      "categoria": "Plataformas",
+      "imagen": "https://placehold.co/300x150?text=Shovel+Knight"
+    },
+    {
+      "id": 7,
+      "nombre": "Cuphead",
+      "precio": 20,
+      "descripcion": "Un juego de plataformas con un estilo de animación vintage.",
+      "categoria": "Acción",
+      "imagen": "https://placehold.co/300x150?text=Cuphead"
+    },
+    {
+      "id": 8,
+      "nombre": "The Witness",
+      "precio": 30,
+      "descripcion": "Un juego de puzzles en un mundo abierto.",
+      "categoria": "Puzzle",
+      "imagen": "https://placehold.co/300x150?text=The+Witness"
+    },
+    {
+      "id": 9,
+      "nombre": "Slay the Spire",
+      "precio": 25,
+      "descripcion": "Un juego de cartas rogue-like en el que construyes tu mazo mientras avanzas.",
+      "categoria": "Roguelike",
+      "imagen": "https://placehold.co/300x150?text=Slay+the+Spire"
+    },
+    {
+      "id": 10,
+      "nombre": "Super Meat Boy",
+      "precio": 10,
+      "descripcion": "Un juego desafiante de plataformas con un toque clásico.",
+      "categoria": "Plataformas",
+      "imagen": "https://placehold.co/300x150?text=Super+Meat+Boy"
+    },
+    {
+      "id": 11,
+      "nombre": "Bastion",
+      "precio": 15,
+      "descripcion": "Un RPG de acción con una narrativa rica y música fantástica.",
+      "categoria": "RPG",
+      "imagen": "https://placehold.co/300x150?text=Bastion"
+    },
+    {
+      "id": 12,
+      "nombre": "Hotline Miami",
+      "precio": 12,
+      "descripcion": "Un juego de acción frenética con una historia oscura.",
+      "categoria": "Acción",
+      "imagen": "https://placehold.co/300x150?text=Hotline+Miami"
+    },
+    {
+      "id": 13,
+      "nombre": "Oxenfree",
+      "precio": 10,
+      "descripcion": "Un juego de aventura y suspenso con mecánicas de conversación.",
+      "categoria": "Aventura",
+      "imagen": "https://placehold.co/300x150?text=Oxenfree"
+    },
+    {
+      "id": 14,
+      "nombre": "Enter the Gungeon",
+      "precio": 20,
+      "descripcion": "Un roguelike de disparos con una gran cantidad de armas y enemigos.",
+      "categoria": "Roguelike",
+      "imagen": "https://placehold.co/300x150?text=Enter+the+Gungeon"
+    },
+    {
+      "id": 15,
+      "nombre": "Inside",
+      "precio": 20,
+      "descripcion": "Un juego de plataformas de suspenso y misterio.",
+      "categoria": "Aventura",
+      "imagen": "https://placehold.co/300x150?text=Inside"
+    },
+    {
+      "id": 16,
+      "nombre": "Hyper Light Drifter",
+      "precio": 20,
+      "descripcion": "Un RPG de acción de mundo abierto con un estilo visual único.",
+      "categoria": "RPG",
+      "imagen": "https://placehold.co/300x150?text=Hyper+Light+Drifter"
+    },
+    {
+      "id": 17,
+      "nombre": "The Stanley Parable",
+      "precio": 15,
+      "descripcion": "Un juego de aventura y exploración con múltiples finales.",
+      "categoria": "Aventura",
+      "imagen": "https://placehold.co/300x150?text=The+Stanley+Parable"
+    },
+    {
+      "id": 18,
+      "nombre": "The Talos Principle",
+      "precio": 25,
+      "descripcion": "Un juego de puzzles filosóficos en un mundo de ciencia ficción.",
+      "categoria": "Puzzle",
+      "imagen": "https://placehold.co/300x150?text=The+Talos+Principle"
+    },
+    {
+      "id": 19,
+      "nombre": "Spelunky",
+      "precio": 15,
+      "descripcion": "Un juego de plataformas donde cada partida es única.",
+      "categoria": "Roguelike",
+      "imagen": "https://placehold.co/300x150?text=Spelunky"
+    },
+    {
+      "id": 20,
+      "nombre": "Fez",
+      "precio": 15,
+      "descripcion": "Un juego de puzzles con una mecánica de giro de 2D a 3D.",
+      "categoria": "Puzzle",
+      "imagen": "https://placehold.co/300x150?text=Fez"
+    }
+]
